@@ -308,3 +308,65 @@ nav .menu li a {
   height: 20px;
 }
 
+#challenge {
+  width: 100%;
+  max-height: 506px;
+  padding: 2px 120px 120px 120px;
+  background-color: #FFFFFF;
+}
+
+.challenge-container {
+  max-width: 1360px;
+  max-height: 384px;
+  padding: 80px 40px 80px 40px;
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+  background-color: #F7F6F2;
+}
+
+.challenge-container h2 {
+  margin-top: 0 auto;
+  margin-bottom: 16px;
+  font-size: 40px;
+  line-height: auto;
+  color: #000000;
+  }
+
+.challenge-container p {
+  font-size: 16px;
+  line-height: 24px;
+  color: #627382;
+  margin-bottom: 24px;
+}
+
+.challenge-container .button-four {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  width: auto;
+  height: 52px;
+  border: none;
+  border-radius: 4px;
+  background-color: #30B868;
+  color: #FFFFFF;
+  font-size: 16px;
+  line-height: auto;
+  cursor: pointer;
+  padding: 12px 16px;
+  margin-bottom: 16px;
+}
+
+.button-four img {
+  width: 20px;
+  height: 20px;
+}
+.button-four:hover {
+  background-color: #28a75a;
+}
+
+.challenge-container p{
+  font-size: 16px;
+  line-height: 20px;
+  color: #627382;
+}
